@@ -1,0 +1,5 @@
+** Create a branch --> git checkout -b <branchName>
+** how to check logs --> git log 
+** changes status    --> git status
+** commit the recent changes --> git commit -m "Added cheat notes"
+
